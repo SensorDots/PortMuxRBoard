@@ -4,7 +4,7 @@ These board files are required to compile the firmware for the SensorDots Port M
 
 ## Installation
 
-Install the latest 1.8.6 Arduino version or later (this is required for the latest board manager tools to install).
+Install at least version 1.8.6 of Arduino or later (this is required for the latest board manager tools to install).
 
 Add the following URL to the Arduino Boards Manager (File->Preferences):
 
