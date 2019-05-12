@@ -1,4 +1,4 @@
-name=ATmega328PB
+name=SensorDots
 version=1.0.0
 
 # AVR compile variables
