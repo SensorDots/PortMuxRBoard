@@ -1,7 +1,7 @@
 328PB
 
 CFD = CFD_DISABLED
-BODLEVEL = DISABLED
+BODLEVEL = 2V7
 RSTDISBL = [ ]
 DWEN = [ ]
 SPIEN = [X]
@@ -13,6 +13,6 @@ CKDIV8 = [ ]
 CKOUT = [ ]
 SUT_CKSEL = INTRCOSC_8MHZ_6CK_14CK_0MS
 
-EXTENDED = 0xF7 (valid)
+EXTENDED = 0xF5 (valid)
 HIGH = 0xD4 (valid)
 LOW = 0xC2 (valid)
